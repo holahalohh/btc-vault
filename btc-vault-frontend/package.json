@@ -1,0 +1,28 @@
+{
+  "name": "btc-vault-frontend",
+  "version": "1.0.0",
+  "description": "Bitcoin Vault DApp Frontend for Stellar",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "bindings": "stellar contract bindings typescript --network testnet --contract-id btc-vault --output-dir ./src/contracts/btc-vault"
+  },
+  "dependencies": {
+    "@creit.tech/stellar-wallets-kit": "^1.2.0",
+    "@stellar/stellar-sdk": "^12.3.0",
+    "bignumber.js": "^9.1.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.0",
+    "buffer": "^6.0.3",
+    "stream-browserify": "^3.0.0",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  }
+}
