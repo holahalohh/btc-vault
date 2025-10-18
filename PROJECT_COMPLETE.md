@@ -3,7 +3,7 @@
 ## ✅ Project Completion Status: SUCCESS
 
 ### 📁 Project Location
-`/home/hieu/stellar_prjs/stellar-bitcoin-bridge/btc-vault`
+`btc-vault`
 
 ### 🎯 Deliverables
 
@@ -266,7 +266,7 @@ This contract demonstrates:
 ### 📝 Files Created
 
 ```
-/home/hieu/stellar_prjs/stellar-bitcoin-bridge/btc-vault/
+btc-vault/
 ├── Cargo.toml (workspace)
 ├── README.md (documentation)
 ├── contracts/
