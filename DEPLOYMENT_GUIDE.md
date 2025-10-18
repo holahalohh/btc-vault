@@ -323,9 +323,9 @@ yield = (99500000 * 1000 * 2592000) / (10000 * 31536000)
 
 ## 📚 Additional Resources
 
-- **Contract Source**: `/home/hieu/stellar_prjs/stellar-bitcoin-bridge/btc-vault/contracts/btc-vault/src/lib.rs`
-- **Tests**: `/home/hieu/stellar_prjs/stellar-bitcoin-bridge/btc-vault/contracts/btc-vault/src/test.rs`
-- **Documentation**: `/home/hieu/stellar_prjs/stellar-bitcoin-bridge/btc-vault/README.md`
+- **Contract Source**: `btc-vault/contracts/btc-vault/src/lib.rs`
+- **Tests**: `btc-vault/contracts/btc-vault/src/test.rs`
+- **Documentation**: `btc-vault/README.md`
 
 ## 🐛 Troubleshooting
 
