@@ -30,7 +30,7 @@ A comprehensive Bitcoin bridge implementation on the Stellar network featuring t
 
 ### Build
 ```bash
-cd /home/hieu/stellar_prjs/stellar-bitcoin-bridge/btc-vault
+cd btc-vault
 stellar contract build
 ```
 
